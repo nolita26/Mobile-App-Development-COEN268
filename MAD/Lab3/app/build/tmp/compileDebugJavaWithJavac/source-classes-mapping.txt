@@ -1,0 +1,8 @@
+com/project/lab3/MainActivity.java
+ com.project.lab3.MainActivity
+ com.project.lab3.MainActivity$1
+com/project/lab3/BuildConfig.java
+ com.project.lab3.BuildConfig
+com/project/lab3/MyService.java
+ com.project.lab3.MyService
+ com.project.lab3.MyService$MyLocalBinder

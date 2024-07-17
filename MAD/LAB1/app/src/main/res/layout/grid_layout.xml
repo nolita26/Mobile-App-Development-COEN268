@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_column="3"
+    android:layout_row="2">
+
+    <Button
+        android:id="@+id/north"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="0"
+        android:layout_column="1"
+        android:layout_rowWeight="1"
+        android:layout_columnWeight="1"
+        android:text="NORTH"
+        />
+
+    <Button
+        android:id="@+id/west"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:layout_margin="3dp"
+        android:text="WEST"
+        />
+
+    <Button
+        android:id="@+id/center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="1"
+        android:layout_column="1"
+        android:layout_rowWeight="1"
+        android:layout_columnWeight="1"
+        android:layout_margin="3dp"
+        android:text="CENTER"
+        />
+
+    <Button
+        android:id="@+id/east"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="1"
+        android:layout_column="2"
+        android:layout_rowWeight="1"
+        android:layout_columnWeight="1"
+        android:layout_margin="3dp"
+        android:text="EAST"
+        />
+
+    <Button
+        android:id="@+id/south"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="2"
+        android:layout_column="1"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:text="SOUTH"
+        />
+
+</GridLayout>

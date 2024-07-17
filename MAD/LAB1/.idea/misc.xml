@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nolit/Downloads/lab1/app/src/main/res/layout/activity_constraintlayout.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/nolit/Downloads/lab1/app/src/main/res/layout/activity_frame.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/nolit/Downloads/lab1/app/src/main/res/layout/activity_gridlayout.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/nolit/Downloads/lab1/app/src/main/res/layout/activity_linear.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/nolit/Downloads/lab1/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/nolit/Downloads/lab1/app/src/main/res/layout/activity_relative.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/nolit/Downloads/lab1/app/src/main/res/layout/activity_table.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/nolit/Downloads/lab1/app/src/main/res/layout/constraint_layout2.xml" value="0.1" />
+        <entry key="..\:/Users/nolit/Downloads/lab1/app/src/main/res/layout/frame_layout.xml" value="0.1" />
+        <entry key="..\:/Users/nolit/Downloads/lab1/app/src/main/res/layout/grid_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/nolit/Downloads/lab1/app/src/main/res/layout/linear_layout.xml" value="0.1796875" />
+        <entry key="..\:/Users/nolit/Downloads/lab1/app/src/main/res/layout/relative_layout.xml" value="0.1796875" />
+        <entry key="..\:/Users/nolit/Downloads/lab1/app/src/main/res/layout/table_layout.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

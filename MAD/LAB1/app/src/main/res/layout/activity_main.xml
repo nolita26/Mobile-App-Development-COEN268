@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/north"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="200dp"
+        android:text="NORTH"
+        />
+
+    <Button
+        android:id="@+id/northwest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="235dp"
+        android:text="NW"
+        />
+
+    <Button
+        android:id="@+id/northeast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="260dp"
+        tools:layout_editor_absoluteY="235dp"
+        android:text="NE"
+        />
+
+    <Button
+        android:id="@+id/west"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="326dp"
+        android:text="WEST"
+        />
+
+    <Button
+        android:id="@+id/center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="150dp"
+        tools:layout_editor_absoluteY="326dp"
+        android:text="CENTER"
+        />
+
+    <Button
+        android:id="@+id/east"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="289dp"
+        tools:layout_editor_absoluteY="326dp"
+        android:text="EAST"
+        />
+
+    <Button
+        android:id="@+id/southeast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="260dp"
+        tools:layout_editor_absoluteY="418dp"
+        android:text="SE"
+        />
+
+    <Button
+        android:id="@+id/southwest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="418dp"
+        android:text="SW"
+        />
+
+    <Button
+        android:id="@+id/south"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="154dp"
+        tools:layout_editor_absoluteY="450dp"
+        android:layout_marginBottom="200dp"
+        android:text="SOUTH"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

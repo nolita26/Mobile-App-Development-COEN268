@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AndroidVersions</string>
+
+    <string-array name="Android">
+        <item> Alpha </item>
+        <item> Petit Four </item>
+        <item> Cupcake </item>
+        <item> Donut </item>
+        <item> Eclairs </item>
+        <item> Froyo </item>
+        <item> Gingerbread </item>
+        <item> Honeycomb </item>
+        <item> Ice Cream Sandwich </item>
+        <item> Jelly Bean </item>
+        <item> KitKat </item>
+        <item> Lollipop </item>
+        <item> Marshmallow </item>
+    </string-array>
+    <string-array name="description">
+        <item> API 1 </item>
+        <item> API 2 </item>
+        <item> API 3 </item>
+        <item> API 4 </item>
+        <item> API 5-7 </item>
+        <item> API 8 </item>
+        <item> API 9-10 </item>
+        <item> API 11-13 </item>
+        <item> API 14-15 </item>
+        <item> API 16-18 </item>
+        <item> API 19 </item>
+        <item> API 21-22 </item>
+        <item> API 23 </item>
+    </string-array>
+    <string name="title_activity_web_view">WebView</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    </resources>

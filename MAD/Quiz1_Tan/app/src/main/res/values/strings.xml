@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quiz3</string>
+    <string name="dialog_text">your answer is wrong, do you want to try again?</string>
+</resources>
